@@ -19,11 +19,10 @@ To use HTML and CSS to achieve a web design layout that achieves a specific goal
 
 ## Features
 
-* HTML
-* CSS
 * Responsive layout
 * Flex boxes
 * Social media icons
+* Image text on hover
 
 ## Installation
 
