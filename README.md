@@ -23,6 +23,7 @@ To use HTML and CSS to achieve a web design layout that achieves a specific goal
 * CSS
 * Responsive layout
 * Flex boxes
+* Social media icons
 
 ## Installation
 
@@ -35,4 +36,6 @@ Download project repo. Open in web browser.
 
 ## Screenshots
 
-
+![screenshot](https://github.com/leiacarts/streetlore/blob/master/streetlore1.png)
+![screenshot](https://github.com/leiacarts/streetlore/blob/master/streetlore2.png)
+![screenshot](https://github.com/leiacarts/streetlore/blob/master/streetlore3.png)
